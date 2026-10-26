@@ -1,0 +1,7 @@
+{
+  "name": "SmartERP – AI-Powered Business Management System",
+  "description": "Comprehensive full-stack ERP web application with inventory management, sales & order processing, employee records, expense tracking, analytics reports, and an AI Business Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
